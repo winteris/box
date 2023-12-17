@@ -1,4 +1,4 @@
-央视,"#enre#
+央视,#enre#
 CCTV-1高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
