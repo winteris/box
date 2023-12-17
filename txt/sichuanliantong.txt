@@ -1,4 +1,4 @@
-央视,"genre"
+央视,"#enre#
 CCTV-1高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
@@ -17,7 +17,7 @@ CCTV14高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
 CCTV-15高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227918/index.m3u8
 cctv17高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CCTV-10高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227809/index.m3u8
-卫视,"genre"
+卫视,#genre#
 浙江卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227351/index.m3u8
 湖南卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
 河南卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227923/index.m3u8
@@ -50,7 +50,7 @@ CCTV-10高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227809/index.m3u8
 卡酷动画,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 综合频道高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227525/index.m3u8
 cgtn,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
-四川地方,"genre"
+四川地方,#genre#
 四川卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227633/index.m3u8
 四川经济,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227635/index.m3u8
 四川文化旅游,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227637/index.m3u8
